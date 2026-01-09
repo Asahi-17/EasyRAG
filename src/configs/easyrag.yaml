@@ -30,7 +30,7 @@ r_use_efficient: 0 # 0-->不加速 1-->使用最大值选择方法加速 2-->使
 
 # 生成参数
 llm_keys: [
-  "your-keys",
+  "4101005b8a144257a358f27e72536d00.QbTHHKXm0eR9uu5t",
   "your-keys",
 ]
 llm_name: "glm-4"
